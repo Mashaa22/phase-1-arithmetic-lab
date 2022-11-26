@@ -8,7 +8,7 @@ let multiply;
 multiply = num1*num2;
 
 /* Random number */
-let random=Math.floor(Math.random()*1000+1)
+let random=Math.floor(Math.random()*10)+1
 
 /*Mod*/
 
